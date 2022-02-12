@@ -1,0 +1,8 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\bin\Debug\A001 - PrimeiroCodigo.exe.config
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\bin\Debug\A001 - PrimeiroCodigo.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\bin\Debug\A001 - PrimeiroCodigo.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\obj\Debug\A001 - PrimeiroCodigo.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\obj\Debug\A001 - PrimeiroCodigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\obj\Debug\A001 - PrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\obj\Debug\A001 - PrimeiroCodigo.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\A001 - PrimeiroCodigo\A001 - PrimeiroCodigo\obj\Debug\A001 - PrimeiroCodigo.pdb

@@ -10,6 +10,8 @@ namespace A001___PrimeiroCodigo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
