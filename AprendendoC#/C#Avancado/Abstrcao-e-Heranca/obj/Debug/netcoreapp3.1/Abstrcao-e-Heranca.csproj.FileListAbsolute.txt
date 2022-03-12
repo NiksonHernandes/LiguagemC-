@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\bin\Debug\netcoreapp3.1\Abstrcao-e-Heranca.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\bin\Debug\netcoreapp3.1\Abstrcao-e-Heranca.deps.json
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\bin\Debug\netcoreapp3.1\Abstrcao-e-Heranca.runtimeconfig.json
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\bin\Debug\netcoreapp3.1\Abstrcao-e-Heranca.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\bin\Debug\netcoreapp3.1\Abstrcao-e-Heranca.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\bin\Debug\netcoreapp3.1\Abstrcao-e-Heranca.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\AulasFaculdade\LiguagemC#\AprendendoC#\C#Avancado\Abstrcao-e-Heranca\obj\Debug\netcoreapp3.1\Abstrcao-e-Heranca.genruntimeconfig.cache
