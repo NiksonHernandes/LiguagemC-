@@ -1,0 +1,31 @@
+﻿<header>
+    <h1>LOGIN: </h1>
+</header>
+<body>
+    <div class="row">
+        <div class="col-4"></div>
+        <div class="col-4">
+            <div class="card">
+                <div class="card-header"  style="font-size:22px; font-weight:bold">Faça o seu Login</div>
+                <div class="card-body">
+                    
+                    <img src="~/login1.jpg" alt="imagem de login" class="img-thumbnail mb-3" />
+
+                    <form action="/Login/Entrar" method="POST">
+                        <input type="text" class="form-control mb-2" name="usuario" placeholder="Usuário" />
+                        <input type="password" class="form-control mb-2" name="senha" placeholder="Senha" />
+                        <button type="submit" class="btn btn-primary">Logar</button>
+                    </form>
+                    
+                </div>
+                <div class="card-footer"><a href="#">Esqueceu a senha?</a></div>
+            </div>
+            
+        </div>
+        <div class="col-4"></div>
+    </div>
+</body>
+<footer>
+    <button type="button" class="btn btn-outline-dark"><a href="/Home/Index">Voltar para tela inicial</a></button>
+</footer>
+
