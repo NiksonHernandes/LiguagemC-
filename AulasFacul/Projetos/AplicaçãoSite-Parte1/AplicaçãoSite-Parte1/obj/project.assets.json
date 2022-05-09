@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemC#\\AprendendoC#\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemCSHARP\\AulasFacul\\Projetos\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1.csproj",
       "projectName": "AplicaçãoSite-Parte1",
-      "projectPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemC#\\AprendendoC#\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1.csproj",
+      "projectPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemCSHARP\\AulasFacul\\Projetos\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemC#\\AprendendoC#\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemCSHARP\\AulasFacul\\Projetos\\AplicaçãoSite-Parte1\\AplicaçãoSite-Parte1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

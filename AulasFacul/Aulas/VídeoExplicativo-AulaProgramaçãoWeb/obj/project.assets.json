@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemC#\\AulasFacul\\VídeoExplicativo-AulaProgramaçãoWeb\\VídeoExplicativo-AulaProgramaçãoWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemCSHARP\\AulasFacul\\Aulas\\VídeoExplicativo-AulaProgramaçãoWeb\\VídeoExplicativo-AulaProgramaçãoWeb.csproj",
       "projectName": "VídeoExplicativo-AulaProgramaçãoWeb",
-      "projectPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemC#\\AulasFacul\\VídeoExplicativo-AulaProgramaçãoWeb\\VídeoExplicativo-AulaProgramaçãoWeb.csproj",
+      "projectPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemCSHARP\\AulasFacul\\Aulas\\VídeoExplicativo-AulaProgramaçãoWeb\\VídeoExplicativo-AulaProgramaçãoWeb.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemC#\\AulasFacul\\VídeoExplicativo-AulaProgramaçãoWeb\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemCSHARP\\AulasFacul\\Aulas\\VídeoExplicativo-AulaProgramaçãoWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

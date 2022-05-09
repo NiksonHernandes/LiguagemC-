@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AplicaçãoSite-Parte1"
+    "\\AplicaçãoSite-Parte1",
+    "\\AplicaçãoSite-Parte1\\Controllers",
+    "\\AplicaçãoSite-Parte1\\Models",
+    "\\AplicaçãoSite-Parte1\\Views"
   ],
+  "SelectedNode": "\\AplicaçãoSite-Parte1\\Controllers\\ProdutosController.cs",
   "PreviewInSolutionExplorer": false
 }

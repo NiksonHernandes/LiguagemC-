@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9RjBqAo4Kwds2h2RrwCwZsmIoUj3vA5jGAbhe+tpgnVmhkjY+qXRwfKpuS/8qG+5bPzTdRhT4QP3wN05HzLfw==",
+  "dgSpecHash": "TmVdyXSuYLGiALkafvtFZHyakKc5NVJOrS/Kmtc7w6MVR/HaYQ3T8niTq1+Lt9fLshsibC0m88L+HrDRAM7JLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemC#\\AulasFacul\\VídeoExplicativo-AulaProgramaçãoWeb\\VídeoExplicativo-AulaProgramaçãoWeb.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\AulasFaculdade\\LiguagemCSHARP\\AulasFacul\\Aulas\\VídeoExplicativo-AulaProgramaçãoWeb\\VídeoExplicativo-AulaProgramaçãoWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
